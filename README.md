@@ -11,8 +11,6 @@ The following SQL operations were carried out during this project-
 * [Functions](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/Function.sql)
 * [Triggers](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/Trigger.sql)
 * Complex SQL queries for fetching data
-[Part 1](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part%201.sql) 
-
-[Part 2](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part2.sql) 
-
-[Part 3](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part%203.sql)
+-[Part 1](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part%201.sql) 
+| [Part 2](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part2.sql) 
+| [Part 3](https://github.com/Riidhima/The-Lahman-Baseball-Database-Optimization/blob/master/SQL%20Questions%20-%20Part%203.sql)
